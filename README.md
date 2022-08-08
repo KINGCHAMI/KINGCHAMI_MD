@@ -29,7 +29,7 @@
 <p align="center">By Queen_CHAMIYA>| © | Reserved  </br> 
 
 
-1. Click [SCAN](https://replit.com/@cham20070626/QueenCHAMIYA#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@KINGCHAMI/KINGCHAMIYA?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/chaminduindula6789/Queen_CHAMIYA/blob/main/README.md)
 
