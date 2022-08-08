@@ -31,7 +31,7 @@
 
 1. Click [SCAN](https://replit.com/@KINGCHAMI/KINGCHAMIYA?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/chaminduindula6789/Queen_CHAMIYA/blob/main/README.md)
+2. Click [FORK](https://github.com/KINGCHAMI/KINGCHAMI_MD)
 
 2. After That Upload Session.json File
 
