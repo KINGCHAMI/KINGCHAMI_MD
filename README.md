@@ -40,6 +40,6 @@
 
 
 ## Owner:
-* [`Queen_CHAMIYA`](https://github.com/chaminduindula6789/Queen_CHAMIYA)
+* [`KING_CHAMIYA`](https://github.com/KINGCHAMI/KINGCHAMI_MD)
 
 
