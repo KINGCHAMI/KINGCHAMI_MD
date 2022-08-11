@@ -3,7 +3,7 @@
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KING_CHAMIYA+WA+BOT.;CREATED+BY+KING_CHAMIYA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KING_CHAMIYA+WA+BOT.;CREATED+BY+KING_CHAMI;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
