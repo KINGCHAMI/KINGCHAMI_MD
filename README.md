@@ -1,4 +1,4 @@
-# KING_CHAMIYA
+# KING_CHAMI
 
 #### TOTAL REPO VIEWS📍
 
@@ -19,13 +19,13 @@
 
   <p align="center">
 
-<a href="#"><img title="KING_CHAMIYA" src="https://img.shields.io/badge/KING_CHAMIYA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KING_CHAMIYA" src="https://img.shields.io/badge/KING_CHAMI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By KING_CHAMIYA>| © | Reserved  </br> 
+<p align="center">By KING_CHAMI>| © | Reserved  </br> 
 
 
 1. Click [SCAN](https://replit.com/@KINGCHAMI/KINGCHAMIYA?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
@@ -40,6 +40,6 @@
 
 
 ## Owner:
-* [`KING_CHAMIYA`](https://github.com/KINGCHAMI/KINGCHAMI_MD)
+* [`KING_CHAMI`](https://github.com/KINGCHAMI/KINGCHAMI_MD)
 
 
